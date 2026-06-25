@@ -1,0 +1,7 @@
+# Minimum acceptable quality. CI fails the build if any metric drops below.
+# Calibrate these AFTER your first real eval run — set them just under your
+# achieved scores so genuine regressions trip the gate but normal noise doesn't.
+recall_at_k: 0.80
+mrr: 0.50
+citation_coverage: 0.90
+refusal_correctness: 1.00

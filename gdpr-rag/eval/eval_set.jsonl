@@ -1,0 +1,18 @@
+{"question": "What are the conditions for valid consent under the GDPR?", "expected_sources": ["Art. 7"], "should_refuse": false}
+{"question": "What is the right to erasure?", "expected_sources": ["Art. 17"], "should_refuse": false}
+{"question": "What rights does a data subject have to data portability?", "expected_sources": ["Art. 20"], "should_refuse": false}
+{"question": "Within what time must a personal data breach be reported to the supervisory authority?", "expected_sources": ["Art. 33"], "should_refuse": false}
+{"question": "When is a Data Protection Impact Assessment required?", "expected_sources": ["Art. 35"], "should_refuse": false}
+{"question": "What are the principles relating to processing of personal data?", "expected_sources": ["Art. 5"], "should_refuse": false}
+{"question": "What is the lawful basis of legitimate interests?", "expected_sources": ["Art. 6"], "should_refuse": false}
+{"question": "What are the conditions for a child's consent for information society services?", "expected_sources": ["Art. 8"], "should_refuse": false}
+{"question": "How are special categories of personal data treated?", "expected_sources": ["Art. 9"], "should_refuse": false}
+{"question": "What must be included in records of processing activities?", "expected_sources": ["Art. 30"], "should_refuse": false}
+{"question": "When must a Data Protection Officer be designated?", "expected_sources": ["Art. 37"], "should_refuse": false}
+{"question": "What are the maximum administrative fines under the GDPR?", "expected_sources": ["Art. 83"], "should_refuse": false}
+{"question": "What information must be provided when personal data are collected from the data subject?", "expected_sources": ["Art. 13"], "should_refuse": false}
+{"question": "What is the right to object to processing?", "expected_sources": ["Art. 21"], "should_refuse": false}
+{"question": "What safeguards apply to transfers of personal data to third countries?", "expected_sources": ["Art. 46"], "should_refuse": false}
+{"question": "What is the recommended cooking time for a medium-rare steak?", "expected_sources": [], "should_refuse": true}
+{"question": "Who won the 2022 cricket world cup?", "expected_sources": [], "should_refuse": true}
+{"question": "What is the capital city of Australia?", "expected_sources": [], "should_refuse": true}

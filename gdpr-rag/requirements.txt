@@ -1,0 +1,14 @@
+# Core
+numpy>=1.24
+requests>=2.31
+PyYAML>=6.0
+
+# Retrieval
+rank-bm25>=0.2.2
+sentence-transformers>=2.2.2   # cross-encoder reranker
+
+# Model provider (swap if you use a different one)
+openai>=1.0
+
+# Dev / test
+pytest>=7.4
